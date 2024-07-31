@@ -1,16 +1,3 @@
 # increasement
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sử dụng 1 biến int gán giá trị khởi tạo = 0 để lưu giá trị đếm, mỗi lần bấm nút biến đếm sẽ tăng thêm 1. Tôi sử dụng bloc để quản lí trạng thái hiển thị biến đếm mỗi lần bấm vào nút tăng giá trị.
